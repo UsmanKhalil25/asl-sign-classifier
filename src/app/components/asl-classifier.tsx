@@ -165,7 +165,7 @@ export default function ASLClassifier() {
           {!isStreaming && !error && (
             <div className="text-center text-muted-foreground">
               <Camera className="mx-auto h-12 w-12 mb-2 opacity-50" />
-              <p>Click "Start Camera" to begin</p>
+              <p>Click &quot;Start Camera&quot; to begin</p>
             </div>
           )}
 
